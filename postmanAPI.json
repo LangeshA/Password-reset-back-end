@@ -1,0 +1,80 @@
+{
+    "collection": {
+    "info": {
+    "_postman_id": "313a6e98-a75f-4074-b13c-d03eb4b2b5cf",
+    "name": "Password-Reset",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "updatedAt": "2024-01-30T11:33:05.000Z",
+    "uid": "32502529-313a6e98-a75f-4074-b13c-d03eb4b2b5cf",
+    "createdAt": null,
+    "lastUpdatedBy": null
+    },
+    "item": [
+    {
+    "name": "createUser",
+    "id": "ddb811ef-9067-43d0-acee-d9abb051c474",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-ddb811ef-9067-43d0-acee-d9abb051c474"
+    },
+    {
+    "name": "login",
+    "id": "dd31f61e-5f47-4428-bd2d-44e63e7c021f",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-dd31f61e-5f47-4428-bd2d-44e63e7c021f"
+    },
+    {
+    "name": "forgotPassword",
+    "id": "32d14e14-b4cf-42f1-8d50-77f7f09bd9a3",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-32d14e14-b4cf-42f1-8d50-77f7f09bd9a3"
+    },
+    {
+    "name": "getUsers",
+    "id": "0ca7360c-2f35-401d-bd9a-c97972fd90d6",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-0ca7360c-2f35-401d-bd9a-c97972fd90d6"
+    },
+    {
+    "name": "resetPassword",
+    "id": "7a65a3ae-7641-414c-af7f-47ca0226e78b",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-7a65a3ae-7641-414c-af7f-47ca0226e78b"
+    }
+    ]
+    }
+    }
